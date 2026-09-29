@@ -1,23 +1,3 @@
-# Quality Assurance Portofolio
-
-## Tentang Portofolio
-
-Repository ini berisi portofolio saya sebagai **Manual Quality Assurance**.
-
-Portofolio ini menunjukkan pemahaman dan pengalaman praktik saya dalam:
-
-- Test Planning
-- Test Scenario
-- Test Case Design
-- Test Execution
-- Bug Reporting
-- Functional Testing
-- Negative Testing
-- Exploratory Testing
-- Regression Testing
-
----
-
 ## Application Under Test
 
 **Application:** SauceDemo (Swag Labs)
@@ -52,7 +32,7 @@ Portofolio ini menunjukkan pemahaman dan pengalaman praktik saya dalam:
 | [Test Case](03-Test-Case/TestCase.md) | Detail test case dan test data |
 | [Test Execution](04-Test-Execution/TestExecution.md) | Hasil eksekusi pengujian |
 | [Bug Report](05-Bug-Report/) | Dokumentasi defect yang ditemukan |
-| [Regression Testing](06-Regression-Testing/RegressionTest.md) | Hasil regression testing |
+
 
 
 ---
@@ -70,5 +50,4 @@ Portofolio ini menunjukkan pemahaman dan pengalaman praktik saya dalam:
 
 - Google Chrome
 - GitHub
-- Markdown
-- SauceDemo
+
