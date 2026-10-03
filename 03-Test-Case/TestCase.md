@@ -1,5 +1,5 @@
 
-# Test Scenario, Test Case & Test Execution
+# Test Case and Test Summary
 
 ## Informasi Pengujian
 
